@@ -1,0 +1,6 @@
+{
+  "name": "AI Video Generator",
+  "description": "Transform text, ad concepts, or images into stunning cinematic prompts and video scripts optimized for Sora, Runway, Kling, and Luma.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
